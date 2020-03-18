@@ -7,6 +7,6 @@ Use python to simulate the coverage probability of mathematical expressions
 ![image](https://github.com/ciat31318/A-Tractable-Approach-to-Coverage-and-Rate-in-Cellular-Networks/blob/master/picture/Figure_1.png)
 * The paper original figure(green line):
 ![image](picture/Figure_2.png)
-__Reference__
+## __Reference__
 ***
 J. G. Andrews, F. Baccelli and R. K. Ganti, "A Tractable Approach to Coverage and Rate in Cellular Networks," in IEEE Transactions on Communications, vol. 59, no. 11, pp. 3122-3134, November 2011.
