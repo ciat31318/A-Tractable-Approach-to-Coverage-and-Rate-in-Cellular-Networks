@@ -1,9 +1,9 @@
 # A-Tractable-Approach-to-Coverage-and-Rate-in-Cellular-Networks
 Use python to simulate the coverage probability of mathematical expressions  
-*Coverage Rate:  
+* Coverage Rate:  
 ![image](picture/function.png)  
 * Code: [coverage_rate.py](https://github.com/ciat31318/A-Tractable-Approach-to-Coverage-and-Rate-in-Cellular-Networks/blob/master/coverage_rate.py)
-*Result:  
+* Result:  
 ![image](https://github.com/ciat31318/A-Tractable-Approach-to-Coverage-and-Rate-in-Cellular-Networks/blob/master/picture/Figure_1.png)
 *The paper original figure(green line):
 ![image](https://github.com/ciat31318/A-Tractable-Approach-to-Coverage-and-Rate-in-Cellular-Networks/blob/master/picture/10.png)
