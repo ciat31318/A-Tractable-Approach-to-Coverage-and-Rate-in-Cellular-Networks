@@ -6,7 +6,7 @@ Use python to simulate the coverage probability of mathematical expressions
 * Result:  
 ![image](https://github.com/ciat31318/A-Tractable-Approach-to-Coverage-and-Rate-in-Cellular-Networks/blob/master/picture/Figure_1.png)
 * Simulation:
-![image](https://github.com/ciat31318/A-Tractable-Approach-to-Coverage-and-Rate-in-Cellular-Networks/blob/master/simulation/Figure_1.png)
+![image](https://github.com/ciat31318/A-Tractable-Approach-to-Coverage-and-Rate-in-Cellular-Networks/blob/master/simulation/Figure_1.png)  
 * The original figure in the paper(green line):
 ![image](picture/Figure_2.png)
 ## __Reference__
