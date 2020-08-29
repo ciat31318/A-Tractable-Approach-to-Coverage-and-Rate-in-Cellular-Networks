@@ -1,0 +1,6 @@
+﻿  ppp.cpp
+C:\Users\ciat3\OneDrive\桌面\ppp\ppp\ppp.cpp(36,23): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ciat3\OneDrive\桌面\ppp\ppp\ppp.cpp(45,23): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ciat3\OneDrive\桌面\ppp\ppp\ppp.cpp(53,23): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ciat3\OneDrive\桌面\ppp\ppp\ppp.cpp(89,23): warning C4018: '<': signed/unsigned 不相符
+  ppp.vcxproj -> C:\Users\ciat3\OneDrive\桌面\ppp\Debug\ppp.exe
