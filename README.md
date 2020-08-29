@@ -5,6 +5,8 @@ Use python to simulate the coverage probability of mathematical expressions
 * Code: [coverage_rate.py](https://github.com/ciat31318/A-Tractable-Approach-to-Coverage-and-Rate-in-Cellular-Networks/blob/master/coverage_rate.py)
 * Result:  
 ![image](https://github.com/ciat31318/A-Tractable-Approach-to-Coverage-and-Rate-in-Cellular-Networks/blob/master/picture/Figure_1.png)
+* Simulation:
+![image](https://github.com/ciat31318/A-Tractable-Approach-to-Coverage-and-Rate-in-Cellular-Networks/blob/master/simulation/Figure_1.png)
 * The original figure in the paper(green line):
 ![image](picture/Figure_2.png)
 ## __Reference__
