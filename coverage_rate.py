@@ -6,7 +6,7 @@ from tqdm import tqdm
 #參數設定
 lamb = 0.0005
 alpha = 4
-sigma = 0
+sigma = (10**(-95/10))**2
 u = 1
 lamb_u = 1
 
