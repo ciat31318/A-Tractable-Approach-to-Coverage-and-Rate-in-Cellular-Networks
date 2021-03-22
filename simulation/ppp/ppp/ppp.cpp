@@ -111,7 +111,7 @@ void linspace(double x1, double x2, int n, double *y)
 
 int main()
 {
-    double T[7];
+    double T[51];
     int point = 50; // 描繪到座標的點個數
     linspace(-10, 20, point, T);
     ofstream ofile("coverage_rate.txt", ios::out);
